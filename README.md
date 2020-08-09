@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ![Licence](https://img.shields.io/badge/licence-none-green.svg)
 [![GitHub Release](https://img.shields.io/github/release/lihengming/spring-boot-api-project-seed.svg)](https://github.com/lihengming/spring-boot-api-project-seed/releases)
 ## 简介
@@ -47,4 +46,3 @@ Spring Boot API Project Seed 是一个基于Spring Boot & MyBatis的种子项目
 =======
 # Spring-api-project-Demo
 Spring学习以及应用
->>>>>>> 7953b970ead4a438af3e95084939c62bb1a02c4b
